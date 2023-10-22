@@ -12,6 +12,7 @@
 - 1 個主要的重生系統綁定檔案 "SpawnsMng.cfg"
 
 - 1 個建議你使用的 "autoexec.cfg"
+關於 "autoexec.cfg" 請見此文章 : [巴哈姆特][Plcd]
 
 
 ### 支援地圖
@@ -52,3 +53,4 @@
 
 [Plad]: <https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/>
 [Plbd]: <https://www.buymeacoffee.com/samwid>
+[Plcd]: <https://forum.gamer.com.tw/C.php?bsn=1473&snA=33012&tnum=5>

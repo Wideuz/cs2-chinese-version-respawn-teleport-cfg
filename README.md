@@ -22,7 +22,7 @@
 - 1.下載Zip檔案
 
 - 2.打開你CS2的資料夾預設為
-- (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg)
+     (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg)
 
 - 3.解壓縮至資料夾
 

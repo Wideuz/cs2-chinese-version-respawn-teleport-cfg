@@ -1,7 +1,7 @@
 # 原作者(Original Author) : Samwid | 他的原網站(His website) : **[reddit][Plad]**
 ## 他的小小捐款處(您也可由原網站去點擊) **[buymeacoffee][Plbd]** 若您有富餘,可以考慮捐助他一杯咖啡的錢喔
 
-## 聲明: 我只負責翻譯這些檔案及說明它們的用途並無任何獲利行為!!! | i only traslate these cfgs to chinese and say how they working. i won't have any Profit-making behavior!!!
+## 聲明: 我只負責翻譯這些檔案及說明它們的用途並無任何獲利行為!!! | i only translate these cfgs to chinese and say how they working. i won't have any Profit-making behavior!!!
 
 ### 內含
 

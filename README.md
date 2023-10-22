@@ -45,7 +45,7 @@
 
 - 只要在遊戲內控制台中輸入 "exec SpawnMng" 就好搂!!!
 
-## **目前版本: 1.1**
+## **目前版本: 1.1**  若有疑慮請通知我改正或刪除 謝謝您!!!
 
 
 [Plad]: <https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/>

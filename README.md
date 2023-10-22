@@ -26,9 +26,9 @@
 - 2.打開你CS2的資料夾預設為
      (C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg)
 
-- 3.解壓縮至資料夾
+- 3.將重生點傳送檔案內的所有cfg丟入資料夾中
 
-- 4.(option)自定義 "KeybindsSpawns.cfg" 按鍵綁定 
+- 4.(option)自定義 "KeybindsSpawns.cfg" 可自行更改按鍵綁定 
 
 
 ### 按鍵綁定及它的作用

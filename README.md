@@ -4,9 +4,6 @@
 ## 聲明: 我只負責翻譯這些檔案及說明它們的用途並無任何獲利行為!!! | i only translate these cfgs to chinese and say how they working. i won't have any Profit-making behavior!!!
 
 
-****
-
-
 ### 內含
 
 - 7 個地圖重生點設定檔

@@ -3,6 +3,10 @@
 
 ## 聲明: 我只負責翻譯這些檔案及說明它們的用途並無任何獲利行為!!! | i only translate these cfgs to chinese and say how they working. i won't have any Profit-making behavior!!!
 
+
+****
+
+
 ### 內含
 
 - 7 個地圖重生點設定檔
@@ -14,9 +18,15 @@
 - 1 個建議你使用的 "autoexec.cfg"(option自行決定要不要使用)
 
 
+****
+
+
 ### 支援地圖
 
 **Nuke & Inferno & Anubis & Ancient & Mirage & Vertigo**
+
+
+****
 
 
 ### 介紹如何放入檔案
@@ -31,6 +41,9 @@
 - 4.(option)自定義 "KeybindsSpawns.cfg" 可自行更改按鍵綁定 
 
 
+****
+
+
 ### 按鍵綁定及它的作用
 
 | 預設按鍵 | 作用 |
@@ -41,9 +54,13 @@
 | Page Down | 設定至前一個T/CT方傳送點 |
 | Delete | 傳送!!! |
 
+****
+
 ### 如何在遊戲內使用
 
 - 只要在遊戲內控制台中輸入 "exec Spawn" 就好搂!!!
+
+****
 
 ### 關於autoexec 的講解
 
@@ -57,7 +74,7 @@
 
 **特殊說明:將控制台disconnect指令縮減到只要輸入d就可以有同樣效果**
 
-------
+****
 
 
 

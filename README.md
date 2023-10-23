@@ -9,7 +9,7 @@
 
 - 1 個主要的檔案"KeybindsSpawns.cfg" 作用: 改變按鍵設定
 
-- 1 個主要的重生系統綁定檔案 "SpawnsMng.cfg"
+- 1 個主要的重生系統綁定檔案 "Spawns.cfg"
 
 - 1 個建議你使用的 "autoexec.cfg"
 

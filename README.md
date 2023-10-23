@@ -11,9 +11,7 @@
 
 - 1 個主要的重生系統綁定檔案 "Spawn.cfg"
 
-- 1 個建議你使用的 "autoexec.cfg"
-
-關於 "autoexec.cfg" 請見此文章 : [巴哈姆特][Plcd]
+- 1 個建議你使用的 "autoexec.cfg"(option自行決定要不要使用)
 
 
 ### 支援地圖
@@ -47,9 +45,24 @@
 
 - 只要在遊戲內控制台中輸入 "exec Spawn" 就好搂!!!
 
+### 關於autoexec 的講解
+
+| 預設按鍵 | 作用 |
+| ------ | ------ |
+| P | 重丟上次丟的手榴彈 |
+| v | 跳丟 |
+| - | 一鍵跑圖 |
+| = | 穿牆模式(跑圖模式下使用) |
+| / | 清除丟錯的煙霧彈 |
+
+**特殊說明:將控制台disconnect指令縮減到只要輸入d就可以有同樣效果**
+
+
+
+
 **補充: 請記得先輸入sv_cheats 1 或著打開autoexec.cfg中的跑圖模式(案"-"鍵)**
 
-## **目前版本: 1.1**  若有疑慮請通知我改正或刪除 謝謝您!!!
+## **目前版本: 1.2**  若有疑慮請通知我改正或刪除 謝謝您!!!
 
 
 [Plad]: <https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/>

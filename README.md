@@ -79,7 +79,7 @@
 
 ### **補充: 請記得先輸入sv_cheats 1 或著打開autoexec.cfg中的跑圖模式(案"-"鍵)**
 
-## **目前版本: 1.2**  若有疑慮請通知我改正或刪除 謝謝您!!!
+## **目前版本: 1.4**  若有疑慮請通知我改正或刪除 謝謝您!!!
 
 
 [Plad]: <https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/>
